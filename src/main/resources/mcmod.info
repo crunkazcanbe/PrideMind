@@ -1,0 +1,8 @@
+[{
+  "modid": "pridemind",
+  "name": "PrideMind",
+  "description": "The Pride AI engine: one shared brain any Pride mod can ask — with a scheduler, answer memory and a budget so it never lags the game. First user: mob brains for every mob from every mod.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "authorList": ["crunkazcanbe"]
+}]
